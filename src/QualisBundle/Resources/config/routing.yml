@@ -1,0 +1,3 @@
+qualis_homepage:
+    path:     /
+    defaults: { _controller: QualisBundle:Default:index }
